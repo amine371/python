@@ -1,0 +1,3 @@
+n  =  int ( input ())
+ def  Fact ( x ): retourne  1  if  x  <=  1  else  x * Fact ( x - 1 ) 
+ print ( Fact ( n ))
